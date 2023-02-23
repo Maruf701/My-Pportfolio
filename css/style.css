@@ -1,0 +1,21 @@
+body{
+	margin:0px;
+}
+.header-area{
+	background-color:#24242E;
+}
+
+header.header-area .container img {
+    display: block;
+    margin: auto;
+}
+
+header.header-area .container h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+header.header-area .container p {
+    color: #ffffff;
+    text-align: center;
+}
